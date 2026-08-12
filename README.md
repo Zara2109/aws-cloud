@@ -1,49 +1,42 @@
-# ☁️ AWS Cloud Notes
+# Amazon EC2
 
-A structured repository documenting my AWS Cloud learning journey through hands-on labs, projects, notes, and interview preparation.
+This repository contains my AWS EC2 learning notes, hands-on labs, and practical exercises.
 
 ## Topics Covered
 
-✔ EC2
+- Introduction to EC2
+- Launching EC2 Instances
+- Security Groups
+- Key Pairs
+- Amazon Machine Images (AMI)
+- Elastic Block Store (EBS)
+- Elastic IPs
 
-✔ IAM
+## Hands-On Skills
 
-✔ S3
+- Launching Linux EC2 instances
+- Connecting using SSH
+- Managing Security Groups
+- Working with EBS Volumes
+- Creating AMIs
+- Configuring Elastic IPs
 
-✔ VPC
+## Repository Structure
 
-✔ Route53
+```text
+EC2/
+├── README.md
+├── 01-Introduction-to-EC2.md
+├── 02-Launching-an-EC2-Instance.md
+├── 03-Security-Groups.md
+├── 04-Key-Pairs.md
+├── 05-AMI.md
+├── 06-EBS.md
+├── 07-Elastic-IP.md
+└── screenshots/
+```
 
-✔ CloudWatch
+## Author
 
-✔ Auto Scaling
-
-✔ Load Balancer
-
-## Hands-on Labs
-
-✔ Launching EC2
-
-✔ Hosting a Static Website
-
-✔ Apache Web Server
-
-✔ SSH Configuration
-
-## Projects
-
-Coming Soon...
-
-## Tech Stack
-
-AWS
-
-Linux
-
-Git
-
-GitHub
-
-Bash
-
-Python
+**Zahrah Mukarram**
+Aspiring Cloud & DevOps Engineer | AWS Cloud Enthusiast | Linux Administrator
