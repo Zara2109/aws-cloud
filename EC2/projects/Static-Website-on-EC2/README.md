@@ -57,6 +57,13 @@ http://<public-ip>
 
 Successfully deployed and accessed a static website hosted on an EC2 instance.
 
+
+# Amazon EC2
+
+![AWS](https://img.shields.io/badge/AWS-EC2-orange)
+![Linux](https://img.shields.io/badge/Linux-Administration-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## Author
 
 Zahrah Mukarram
