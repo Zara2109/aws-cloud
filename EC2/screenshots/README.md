@@ -13,3 +13,9 @@ This folder contains screenshots from my hands-on AWS EC2 labs.
 - Apache Web Server Running
 
 These screenshots demonstrate practical AWS experience and infrastructure management skills.
+
+# Amazon EC2
+
+![AWS](https://img.shields.io/badge/AWS-EC2-orange)
+![Linux](https://img.shields.io/badge/Linux-Administration-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
